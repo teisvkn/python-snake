@@ -1,6 +1,6 @@
 # Snake
 
-Me playing with Python 3.7.1
+Me playing with Python and pygame.
 
 ```
 sh ./bin/activate
